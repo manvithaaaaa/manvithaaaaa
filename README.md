@@ -15,8 +15,8 @@
 <h1>Tech Stack</h1>
 <ul>
   <li>Languages: C, Java, Python, JavaScript</li>
-  <li>Libraries/Tools: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch</li>
-  <li>Databases: MySQL,PHP</li>
+  <li>Libraries/Tools: Pandas, Numpy, Matplotlib, Seaborn, Plotly Dash, Scikit-Learn, Folium, BeautifulSoup </li>
+  <li>Databases: MySQL</li>
   <li>Other Tools: Git, GitHub, Canva</li>
 </ul>
 
